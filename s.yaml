@@ -11,7 +11,7 @@ services:
       function:
         name: Chinese-Vicuna-egov
         description: Initialize
-        runtime: python3.8
+        runtime: python3.10
         memorySize: 16384
         cpu: 16
         timeout: 60
